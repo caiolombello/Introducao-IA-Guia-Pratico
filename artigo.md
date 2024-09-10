@@ -86,7 +86,7 @@ Agora que já cobrimos os conceitos básicos, vamos ver um exemplo simples de co
    print(f"Acurácia do modelo: {accuracy * 100:.2f}%")
    ```
 
-Esse é um exemplo básico, mas ilustra como é simples começar a trabalhar com IA utilizando bibliotecas como o scikit-learn.
+Esse é um exemplo básico, mas ilustra como é simples começar a trabalhar com IA utilizando bibliotecas como o scikit-learn. **E se você quiser se aprofundar no uso de Modelos de Linguagem de Grande Escala (LLMs)**, recomendo aprender através deste excelente repositório: [PrivateGPT](https://github.com/caiolombello/privategpt). Ele oferece uma abordagem prática para trabalhar com LLMs de forma privada e segura.
 
 ## Conclusão
 
